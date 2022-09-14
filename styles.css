@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+
+}
+/*.square{
+    height: 50px;
+    width: 50px;
+  
+  }*/
+  table {
+    
+  width: 50%;
+  
+    
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+    color: rgb(156, 41, 41);
+  }
