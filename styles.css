@@ -11,9 +11,10 @@ body{
   .main-title{
     color: rgb(128, 8, 8);
     
-    font-size: 20px;
+    font-size: 25px;
   }
   table {
+    background-color: rgb(232, 219, 219);
   margin-left: 25%;
   margin-right: 25%;
     
@@ -22,7 +23,11 @@ body{
  
   }
   h1{
+    background-color: rgb(232, 219, 219);
     text-align: center;
+    color: rgb(128, 8, 8);
+    
+    
   }
   
    td {
@@ -31,6 +36,7 @@ body{
     
   }
   th{
+   
     text-align: left;
     padding: 10px;
     color: rgb(123, 5, 5);
