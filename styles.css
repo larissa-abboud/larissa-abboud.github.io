@@ -7,15 +7,33 @@ body{
     width: 50px;
   
   }*/
+  .main-title{
+    color: rgb(128, 8, 8);
+    
+    font-size: 20px;
+  }
   table {
     
-  width: 50%;
+  width: 100%;
+  border: 1px solid #ddd;
+  
   
     
   }
   
-  th, td {
+   td {
     text-align: left;
-    padding: 10px;
-    color: rgb(156, 41, 41);
+    padding: 15px;
+    color: rgb(128, 8, 8);
   }
+  th{
+    text-align: left;
+    padding: 15px;
+    color: rgb(123, 5, 5);
+  }
+  /***/
+  .container {
+    
+    
+  }
+  
