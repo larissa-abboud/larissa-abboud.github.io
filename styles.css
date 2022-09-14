@@ -19,17 +19,20 @@ body{
     
   
   border: 1px solid #ddd;
-  
-  
-    
+ 
+  }
+  h1{
+    text-align: center;
   }
   
    td {
+    text-align: left;
+    color: rgb(123, 5, 5);
     
   }
   th{
     text-align: left;
-    padding: 15px;
+    padding: 10px;
     color: rgb(123, 5, 5);
   }
   /***/
